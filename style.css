@@ -29,6 +29,7 @@ h1 {
     background: #1f2937;
     padding: 30px;
     border-radius: 12px;
+    border: 2px solid #eab308;
 }
 
 #nombre {
